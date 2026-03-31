@@ -99,6 +99,10 @@ pip install mne cebra torch scikit-learn matplotlib numpy
 
 Open `neurodyads_pretask.ipynb` in Jupyter or Colab. Update the two file paths at the top to point to your EDF files.
 
+---
+## Data
+
+Raw EEG recordings are not included in this repository. Data was provided as part of the GSoC 2026 ML4SCI NeuroDyads pre-task and is not publicly available.
 
 ---
 
